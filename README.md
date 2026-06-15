@@ -51,6 +51,3 @@ Timeline correlation and domain reputation analysis confirmed the activity as no
 ## Final Decision
 **False Positive** – Alert closed after validation through log correlation.
 
----
-
-## Repository Structure
